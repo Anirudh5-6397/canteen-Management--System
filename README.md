@@ -22,16 +22,3 @@ The main objective of the Canteen Management System is to manage the details of 
 * Recieve bill with GST
 * Keep monthly account of money spent
 
-**Installtion and execution procedure⚙️**
-
-----
-
-1 : Install xampp and update google chrome download latest chrome from here.
-
-2 : After installing xampp (Default directory : c:/xampp/) , download the project and paste it in directory : (c:/xampp/htdocs/).
-
-3 : Set your xampp username to root and no password. Instructions to change username and password
-
-4 : Start wampServer64 from the desktop icon and open google chrome and type the following url without quotes: "http://localhost/phpmyadmin/" and enter root as username and press Go.
-
-5 : Now first you have to Load the database in your local server and then you can run the project.
